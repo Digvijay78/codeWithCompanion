@@ -29,6 +29,8 @@ import "ace-builds/src-noconflict/theme-solarized_light";
 
 //uploading on github
 
+// for commit
+
 import "../css/Editor.css";
 import { save } from "save-file";
 const languages = Object.keys(languageToEditorMode);
